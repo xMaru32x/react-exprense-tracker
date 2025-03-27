@@ -1,12 +1,37 @@
-# React + Vite
+<h1 align="center">Expense Tracker</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###
 
-Currently, two official plugins are available:
+<h3 align="center">Una aplicación web sencilla y eficiente construida con React y Vite para rastrear tus gastos y gestionar tu presupuesto de manera efectiva.</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###
 
-## Expanding the ESLint configuration
+<p align="center">💰 Rastrea tus gastos en tiempo real.<br><br>📊 Visualiza los gastos.<br><br>📝 Añade y elimina entradas de gastos.<br><br>📅 Ve tus gastos en una interfaz amigable.</p>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="center">Instalacion</h3>
+
+###
+
+<p align="center">Clona el repositorio:<br><br>git clone https://github.com/xMaru32x/react-exprense-tracker.git<br><br>Navega a la carpeta del proyecto:<br><br>cd react-expense-tracker<br><br>Instala las dependencias:<br><br>npm install tailwind victory<br><br>Ejecuta el proyecto:<br><br>npm run dev</p>
+
+###
